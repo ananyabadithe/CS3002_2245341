@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|d:\\cs3005 - digital media and games\\labs\\unity projects\\cs3005_2245341\\assets\\scripts\\playerpaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerpaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerPaddleController.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\PlayerPaddleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPaddleController.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\PlayerPaddleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerPaddleController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:57:31.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
