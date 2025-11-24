@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|d:\\cs3005 - digital media and games\\labs\\unity projects\\cs3005_2245341\\assets\\scripts\\playerpaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\collectibles\\powerballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibles\\powerballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\weapons\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\weapons\\laserbeamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\laserbeamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|d:\\cs3005 - digital media and games\\labs\\unity projects\\cs3005_2245341\\assets\\scripts\\weapons\\asteroidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\asteroidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\enemy\\enemyalienspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyalienspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\scenemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\enemy\\enemyshipspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyshipspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\weapons\\orbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\orbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\collectibles\\collectiblescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibles\\collectiblescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\enemy\\bigbossenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\bigbossenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\health\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\enemy\\enemyaliencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyaliencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\weapons\\smallasteroidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\smallasteroidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\playerpaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerpaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\weapons\\laserbeamspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D7526-7B8B-29BD-BB0A-FFAE2DCE6030}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\laserbeamspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\assets\\scripts\\randomsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\randomsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +74,204 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrbController.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\OrbController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\OrbController.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\OrbController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\OrbController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:41:39.591Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyAlienSpawner.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Enemy\\EnemyAlienSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAlienSpawner.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Enemy\\EnemyAlienSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAlienSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T20:14:39.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsteroidController.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\AsteroidController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\AsteroidController.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\AsteroidController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\AsteroidController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwFwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:42:54.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaserBeamController.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\LaserBeamController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\LaserBeamController.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\LaserBeamController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\LaserBeamController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:27:56.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\BulletController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\BulletController.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\BulletController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\BulletController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswGsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:14:06.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PowerballController.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Collectibles\\PowerballController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectibles\\PowerballController.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Collectibles\\PowerballController.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Collectibles\\PowerballController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T01:56:46.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneManagerController.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\SceneManagerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManagerController.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\SceneManagerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManagerController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAADcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:32:24.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyShipSpawner.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Enemy\\EnemyShipSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyShipSpawner.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Enemy\\EnemyShipSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyShipSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:19:25.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollectiblesController.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Collectibles\\CollectiblesController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectibles\\CollectiblesController.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Collectibles\\CollectiblesController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectibles\\CollectiblesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:04:41.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BigBossEnemyController.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Enemy\\BigBossEnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BigBossEnemyController.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Enemy\\BigBossEnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BigBossEnemyController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:15:40.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Health\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\HealthManager.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Health\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\HealthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:40:10.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyAlienController.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Enemy\\EnemyAlienController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAlienController.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Enemy\\EnemyAlienController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAlienController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T20:10:37.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RandomSprite.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\RandomSprite.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RandomSprite.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\RandomSprite.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RandomSprite.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:11:53.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SmallAsteroidController.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\SmallAsteroidController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\SmallAsteroidController.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\SmallAsteroidController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\SmallAsteroidController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:05:24.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "PlayerPaddleController.cs",
               "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\PlayerPaddleController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPaddleController.cs",
               "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\PlayerPaddleController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerPaddleController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAA7wEkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T13:57:31.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T19:08:21.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LaserBeamSpawner.cs",
+              "DocumentMoniker": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\LaserBeamSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\LaserBeamSpawner.cs",
+              "ToolTip": "D:\\CS3005 - Digital Media and Games\\Labs\\Unity Projects\\CS3005_2245341\\Assets\\Scripts\\Weapons\\LaserBeamSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\LaserBeamSpawner.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:27:37.275Z"
             }
           ]
         }

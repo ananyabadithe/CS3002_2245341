@@ -3,7 +3,28 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Boundary
+  - Laser
+  - LaserSpawner
+  - EnemyShipSpawner
+  - EnemyShip
+  - ExitBoundary
+  - BounceBoundary
+  - TopBoundary
+  - BottomBoundary
+  - Orb
+  - EnemyAlienSpawner
+  - Bullet
+  - Asteroid
+  - Alien
+  - BigBoss
+  - Skull
+  - DecreaseSpeed
+  - IncreaseSpeed
+  - Heart
+  - Shrink
+  - Expand
   layers:
   - Default
   - TransparentFX
